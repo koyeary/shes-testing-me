@@ -1,24 +1,24 @@
 
-  # Shooting Cats Out of a Cannon
+  # CannonBall (with Cats!)
 
-  A program that will allow you to victimize feral cats, by shooting them out of a cannon
+  A simple commandline program that allows you to shoot cats out of a cannon
 
   ## Installation 
   
-  We recommend head-first, to avoid injury. But you can do it the other way.
+  we recommend installing the cats head-first into the cannon, to keep them from biting
 
   ## Usage
   
-  Run away after you light it
+  well. be careful
 
   ## License 
   
-  Released under the l;akja'f license.
+  Released under the MIT (obviously) license.
 
   ## Contributing 
   
-  abkejaf'
+  Kat Yeary
 
   ## Tests 
   
-  adfk
+  This is kind of a one-and-done deal. Once that cat is gone, she's gone
