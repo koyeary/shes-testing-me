@@ -1,19 +1,19 @@
 
-  # CannonBall (with Cats!)
+  # Cannonball Cats!
 
-  A simple commandline program that allows you to shoot cats out of a cannon
+  A real, totally real, program that lets you shoot cats out of a cannon
 
   ## Installation 
   
-  we recommend installing the cats head-first into the cannon, to keep them from biting
+  We recommend installing the cats headfirst to avoid injury. They scratch!
 
   ## Usage
   
-  well. be careful
+  Well. Be careful.
 
   ## License 
   
-  Released under the MIT (obviously) license.
+  Released under the MIT, or something. license.
 
   ## Contributing 
   
@@ -21,4 +21,4 @@
 
   ## Tests 
   
-  This is kind of a one-and-done deal. Once that cat is gone, she's gone
+  This is kind of a one-and-done operation. Once that cat is in the air, she's in the air.
